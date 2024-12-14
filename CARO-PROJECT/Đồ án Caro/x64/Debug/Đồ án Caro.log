@@ -1,0 +1,11 @@
+﻿  Control.cpp
+  Draw.cpp
+  Feature.cpp
+C:\Source\repo\CARO-PROJECT\source\Feature.cpp(8,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+      C:\Source\repo\CARO-PROJECT\source\Feature.cpp(8,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+  GameLogic.cpp
+  DoanCaro.cpp
+  Generating Code...
+  Đồ án Caro.vcxproj -> C:\Source\repo\CARO-PROJECT\x64\Debug\Đồ án Caro.exe
